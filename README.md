@@ -1,6 +1,6 @@
 # desafiorarolabs
 
-Desafion Flutter da Raro Labs
+Desafio Raro Labs.
 
 ## Getting Started
 
